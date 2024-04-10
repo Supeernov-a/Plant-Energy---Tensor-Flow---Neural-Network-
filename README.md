@@ -1,6 +1,6 @@
-# plant-energy
-Cycle Power Plant Project using Tensor Flow
+Cycle Power Plant Project 
 
-Regression model to predict the Electrical Energy 
+This notebook was created to solve a regression problem using tensor flow.
 
-edited
+
+
